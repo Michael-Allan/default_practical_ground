@@ -1,0 +1,27 @@
+
+    !! what is qualified cannot ground the absolute principle of a moral law
+        : re `(absolute principle) of a (moral law)` see `^*: re .${2}.+${1}`s @ ~/work/ethics/text.brec
+        ! the creators in being contingent are qualified in a sense that might be taken
+          as making them unfit to ground that absolute principle
+            : re `the creators.+being contingent`
+              see `^*• mundane design by cosmic creators$` @ ~/work/ethics/text.brec
+            - not so ∵ already the principle is grounded as absolute
+                : re `(the principle) is (grounded) as (absolute)`
+                  see `^*- ${1} is ${3} ∵ it is ${2} in a truth of.+logic` @ text.notes.brec
+            / meantime the theoretic role of the creators in regard to the principle is to satisfy
+              two other conditions of moral law that merely *refer* to that principle,
+              namely those of commanding and enforcing it
+                : re `creators.+satisfy.+commanding`s see `^*b. its command.+by our creator$` @
+                  `^^moral law, conditions that hold$`i @ ~/work/ethics/normative/._/text.notes.brec
+                : re `creators.+satisfy.+enforcing`s see `^*c. the creator’s backing of it by force$` @
+                  `^^moral law, conditions that hold$`i @ ~/work/ethics/applied/._/text.notes.brec
+        ! the default practical ground in being default is qualified in a sense
+          that makes it unfit to ground that absolute principle
+            - not so ∵ already the principle is grounded as absolute
+                : see
+            / meantime the theoretic role of the default practical ground in regard to the principle
+              is merely to assure us (through its present existence for us) that satisfying
+              the criterion of the principle is (at present) possible for us
+                : re `(at present).+(for us)` N.B.
+                 `this contingency.+affects neither.+criterion.+nor.+principle, both remain absolute`s @
+                  text.notes.brec

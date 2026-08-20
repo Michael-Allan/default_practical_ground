@@ -6,15 +6,19 @@ Notes on the report of a default ground for practical reasoning
     moral law, conditions that hold
         a) an absolute principle defining the criteria of right action
             : see @ `^^moral law, conditions$`i @ ~/work/ethics/._/text.notes.brec
-            - there exists a principle defining the criteria of right action to be one criterion:
-              (action) having as an end a practical ground
-            - the principle is absolute in being a truth of (practical) logic|reason
-            - the right action whose criterion it defines depends on the existence of a practical ground,
-              which at present is assured by the existence of a default practical ground
-                : ad `at present` : if no other ground exists to be discovered (viz. no stable ground)
-                  and we come to learn of this, then the default ground will cease to exist
-                  and right action (by this criterion) will be impossible for us
+            ∃ a principle that defines the criteria of right action to be one criterion:
+
+                criterion of right action: action having as an end a practical ground
+
+            - the principle is absolute ∵ it is grounded in a truth of (practical) logic|reason
             ∴ this condition holds
+                - satisfaction of the criterion depends on the existence of a practical ground,
+                  which at present is assured for us by the existence of a default practical ground
+                    : ad `(at present).+(for us)` : if no other practical ground exists to be discovered
+                      (viz. none that is stable) and we come to learn of this, then (for us) the default
+                      ground will cease to exist and right action (by this criterion) will be impossible
+                - but this contingency in satisfying the criterion affects neither the criterion itself
+                  nor the principle, both remain absolute regardless
         b) its command (addressed demand) by our creator
             : see @ `^^moral law, conditions$`i @ ~/work/ethics/._/text.notes.brec
         c) the creator’s backing of it by force
