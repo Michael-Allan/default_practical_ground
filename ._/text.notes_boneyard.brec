@@ -1,10 +1,11 @@
 
     !! what is qualified cannot ground the absolute principle of a moral law
-        : re `(absolute principle) of a (moral law)` see `^*: re .${2}.+${1}`s @ ~/work/ethics/text.brec
+        : re `(absolute principle) of a (moral law)` see `^*: re .${2}.+${1}`s @
+          ~/work/ethics/._/02.wrong_rhetoric/text.brec
         ! the creators in being contingent are qualified in a sense that might be taken
           as making them unfit to ground that absolute principle
             : re `the creators.+being contingent`
-              see `^*• mundane design by cosmic creators$` @ ~/work/ethics/text.brec
+              see `^*• mundane design by cosmic creators$` @ ~/work/ethics/._/02.wrong_rhetoric/text.brec
             - not so ∵ already the principle is grounded as absolute
                 : re `(the principle) is (grounded) as (absolute)`
                   see `^*- ${1} is ${3} ∵ it is ${2} in a truth of.+logic`
@@ -28,5 +29,5 @@
     moral law, conditions that hold
         a) an absolute principle defining the criteria of right action
             : re `an absolute principle defining the criteria of right action`
-              see `^*: re .moral law.+${same}`s @ ~/work/ethics/text.brec
+              see `^*: re .moral law.+${same}`s @ ~/work/ethics/._/02.wrong_rhetoric/text.brec
             - the principle is absolute ∵ it is grounded in a truth of (practical) logic|reason
